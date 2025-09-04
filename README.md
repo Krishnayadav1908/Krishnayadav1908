@@ -4,7 +4,7 @@
 ---
 
 # 🚀 About Me
-- 🎓 BE IT Student (3rd Year)  
+- 🎓 BE IT Student (4rd Year)  
 - 💻 Focused on *Java, DSA & Spring Boot*  
 - 🌱 Exploring *AI/ML & Cloud*  
 - ⚡ Love solving real-world problems with code  
